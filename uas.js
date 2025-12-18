@@ -1,5 +1,5 @@
 (function() {
-  const apiKey = "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";
+  const apiKey = "sk-or-v1-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";
   const apiUrl = 'https://openrouter.ai/api/v1/chat/completions'; // Pastikan URL ini benar sesuai dokumentasi API Anda
 
   // Buat elemen overlay floating
